@@ -10,7 +10,9 @@
 - Windows/Linux
 - Python 3.6.xx及以上
 ## 程序依赖包
-~~~pip install -r requirements.txt~~~
+~~~
+pip install -r requirements.txt
+~~~
 
 ## 功能
 - 微信定时推送消息脚本
