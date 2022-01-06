@@ -1,4 +1,4 @@
-# 我在校园自动打卡
+# 我在校园自动打卡我已经回退版本，已经关闭此功能
 # 微信自动推送脚本
 
 我在校园自动打卡程序参考：[zimin9/WoZaiXiaoYuanPuncher](https://github.com/zimin9/WoZaiXiaoYuanPuncher) 的 Github Action 版。
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ~~~
 
 ## 功能
-- 我在校园自动打卡脚本
+- 我在校园自动打卡脚本（已经关闭）
 - 微信定时推送消息脚本
 - 目前有微信自动打卡推送，每日课程表推送，成绩推送
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 
 ## 关于本脚本
-- 添加脚本 `daka.py`，适配学校的打卡项目“我在校园多账号健康打卡”。
+- 添加脚本 `daka.py`，适配学校的打卡项目“我在校园多账号健康打卡”。（已经关闭）
 - 添加脚本 `main.py`，适配学校的打卡项目“健康打卡”。
 
   > 关于本项目中的三个脚本：
@@ -41,6 +41,8 @@ pip install -r requirements.txt
   > -'dingshi.py'，可进行定时运行程序和推送任务
 
 ## 声明
+
+- 经过慎重考虑，打卡脚本已经闭源
 
 - 本项目仅供编程学习/个人使用，请遵守Apache-2.0 License开源项目授权协议。
 
