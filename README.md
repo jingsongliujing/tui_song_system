@@ -1,3 +1,4 @@
+# 我在校园自动打卡
 # 微信自动推送脚本
 
 我在校园自动打卡程序参考：[zimin9/WoZaiXiaoYuanPuncher](https://github.com/zimin9/WoZaiXiaoYuanPuncher) 的 Github Action 版。
