@@ -33,14 +33,20 @@ try:
         url = "https://student.wozaixiaoyuan.com/health/save.json"
         sign_data = {
             "answers": '["0"]',
-            "latitude": "30.694365",  # 纬度
-            "longitude": "103.822602",  # 经度
-            "country": "中国",  # 国家
-            "city": "成都市",  # 城市
-            "district": "温江区",  # 区、县
-            "province": "四川省",  # 省
-            "township": "",  # 可以不填
-            "street": "",  # 可以不填
+            "answer": '["0"]',
+            "answer": '["0"]',
+            # "seq": self.get_seq(),
+            "temperature":"36.1",
+            "temperature":"36.4",
+            "temperature":"36.2",
+            "latitude": "24.84835634567432",
+            "longitude": "102.80318645678934",
+            "country": "中国",
+            "city": "昆明市",
+            "district": "呈贡区",
+            "province": "云南省",
+            "township": "",
+            "street": "",
         }
         data = urlencode(sign_data)
         response = requests.post(url=url, data=data, headers=header)
