@@ -1,8 +1,6 @@
 # 我在校园自动打卡我已经回退版本，已经关闭此功能
 # 微信自动推送脚本
 
-我在校园自动打卡程序参考：[zimin9/WoZaiXiaoYuanPuncher](https://github.com/zimin9/WoZaiXiaoYuanPuncher) 的 Github Action 版。
-具体抓包看大佬的方法
 ## 程序效果
 ![效果](https://github.com/jingsongliujing/tui_song_system/blob/main/qq_pic_merged_1641384838128.jpg)
 ## 更新日志
