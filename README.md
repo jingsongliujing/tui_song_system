@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## 声明
 
-- 本项目仅供编程学习/个人使用，请遵守Apache-2.0 License开源项目授权协议。开源项目授权协议.
+- 本项目仅供编程学习/个人使用，请遵守Apache-2.0 License开源项目授权协议。
 
 - 请在国家法律法规和校方相关原则下使用。
 
